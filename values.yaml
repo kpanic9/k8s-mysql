@@ -1,0 +1,7 @@
+# Default values for k8s-mysql.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+mysql:
+  volumeSize: 1                       # mysql data volume size in GB
+
