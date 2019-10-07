@@ -7,9 +7,9 @@ MySQL version: 5.6
  
 ## Deploy k8s-mysql
  
-`bash
+```bash
 git clone repo
 cd k8s-mysql
 helm install . -n k8s-mysql
-`
+```
  
