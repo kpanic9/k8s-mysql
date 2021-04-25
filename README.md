@@ -1,6 +1,7 @@
 # Kubernetes MySQL 
  
-        Running MySQL on kubernetes. 
+Runs a MySQL singleton on kubernetes with persistent storage from the
+host and exposes it with service name mysql-service. 
 
 MySQL version: 5.6
  
